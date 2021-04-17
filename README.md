@@ -8,13 +8,13 @@ Nowadays due to the current pandemic issue of covid19, all schools are closed be
 
 welcome page ,
 
-![App UI](/screenshot/1.png)
+![App UI](/screenshot/1.png =100x20)
 
 We design 3 screens first one is a welcome screen like then user open your app it shows then users have two options, if he has an account then press the login button and it just shifts him to the login screen or if he or she don't have an account then press signup button its transfers to the signup screen.
 
 
-![App UI](/6.jpg)
-![App UI](/8.jpg)
+![App UI](/screenshot/1.png)
+![App UI](/screenshot/1.png)
 
 ### Similarly some other screen view are here ,
 
