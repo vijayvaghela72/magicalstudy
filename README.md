@@ -34,6 +34,10 @@ We design 3 screens first one is a welcome screen like then user open your app i
 <img src="/screenshot/26.png"  width="500" height="900">  <img src="/screenshot/27.png"  width="500" height="900"> 
 <img src="/screenshot/30.png"  width="500" height="900">  <img src="/screenshot/31.png"  width="500" height="900"> 
 <img src="/screenshot/32.png"  width="500" height="900">  <img src="/screenshot/33.png"  width="500" height="900"> 
+<img src="/screenshot/38.png"  width="500" height="900">  <img src="/screenshot/39.png"  width="500" height="900"> 
+<img src="/screenshot/40.png"  width="500" height="900">  <img src="/screenshot/41.png"  width="500" height="900"> 
+
+
 
 this is a little bit introduction of project .
 
