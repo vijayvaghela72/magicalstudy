@@ -29,6 +29,8 @@ We design 3 screens first one is a welcome screen like then user open your app i
 <img src="/screenshot/20.png"  width="500" height="900">  <img src="/screenshot/21.png"  width="500" height="900"> 
 <img src="/screenshot/22.png"  width="500" height="900"> 
 
+this is a little bit introduction of project .
+
 # Some Other Activity Implimentation
 
 <img src="/screenshot/26.png"  width="500" height="900">  <img src="/screenshot/27.png"  width="500" height="900"> 
@@ -40,7 +42,7 @@ We design 3 screens first one is a welcome screen like then user open your app i
 <img src="/screenshot/29.png"  width="500" height="900">
 
 
+Thanks For Showing your Interest.
 
-this is a little bit introduction of project .
 
-#thank you ..
+# Thank you ...
