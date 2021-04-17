@@ -16,17 +16,18 @@ We design 3 screens first one is a welcome screen like then user open your app i
 
 <img src="/screenshot/2.png"  width="500" height="900">  <img src="/screenshot/3.png"  width="500" height="900">
 <img src="/screenshot/4.png"  width="500" height="900">
-### Similarly some other screen view are here ,
+### Similarly some Inside screen views are here ,
 
 
-![App UI](/1.jpg)
-![App UI](/2.jpg)
-![App UI](/3.jpg)
-![App UI](/4.jpg)
-![App UI](/5.jpg)
-![App UI](/7.jpg)
-![App UI](/9.jpg)
-
+<img src="/screenshot/5.png"  width="500" height="900">  <img src="/screenshot/6.png"  width="500" height="900"> 
+<img src="/screenshot/7.png"  width="500" height="900">  <img src="/screenshot/8.png"  width="500" height="900"> 
+<img src="/screenshot/9.png"  width="500" height="900">  <img src="/screenshot/10.png"  width="500" height="900"> 
+<img src="/screenshot/11.png"  width="500" height="900">  <img src="/screenshot/12.png"  width="500" height="900"> 
+<img src="/screenshot/13.png"  width="500" height="900">  <img src="/screenshot/14.png"  width="500" height="900"> 
+<img src="/screenshot/15.png"  width="500" height="900">  <img src="/screenshot/16.png"  width="500" height="900"> 
+<img src="/screenshot/17.png"  width="500" height="900">  <img src="/screenshot/18.png"  width="500" height="900"> 
+<img src="/screenshot/19.png"  width="500" height="900">  <img src="/screenshot/20.png"  width="500" height="900"> 
+<img src="/screenshot/21.png"  width="500" height="900">  
 this is a little bit introduction of project .
 
 thank you ..
